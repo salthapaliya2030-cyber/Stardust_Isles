@@ -42,7 +42,7 @@ export class Game {
   constructor(canvas) {
     this.canvas = canvas;
     const r = (this.renderer = new THREE.WebGLRenderer({ canvas, antialias: true, powerPreference: 'high-performance' }));
-    r.setPixelRatio(Math.min(devicePixelRatio, 1.75));
+    r.setPixelRatio(Math.min(window.devicePixelRatio || 1, 1.25));
     r.setSize(innerWidth, innerHeight);
     r.shadowMap.enabled = true;
     r.shadowMap.type = THREE.PCFShadowMap;
