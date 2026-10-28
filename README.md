@@ -12,6 +12,10 @@
 <img src="https://img.shields.io/badge/🌐_Language-English_|_中文-0EA5E9?style=for-the-badge&labelColor=2B2F3A" alt="English and Chinese">
 <a href="LICENSE"><img src="https://img.shields.io/badge/⚖️_License-MIT-8B5CF6?style=for-the-badge&labelColor=2B2F3A" alt="MIT License"></a>
 
+
+<br>
+<a href="https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fsalthapaliya2030-cyber%2FStardust_Isles"><img src="https://vercel.com/button" alt="Deploy with Vercel"></a>
+<p><i>The button imports this repository into your own Vercel account. GitHub/Vercel sign-in or authorization may be required.</i></p>
 </div>
 
 ---
