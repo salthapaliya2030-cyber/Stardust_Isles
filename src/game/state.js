@@ -19,7 +19,7 @@ export function defaultData() {
     met: [],
     farChests: [], farthest: 0,
     ending: false,
-    settings: { volume: 0.8, music: 0.5, sensitivity: 1, invertY: false, shadows: true, aiChat: true, quality: 'high' },
+    settings: { volume: 0.8, music: 0.5, sensitivity: 1, invertY: false, shadows: true, aiChat: true, quality: 'medium' },
   };
 }
 
